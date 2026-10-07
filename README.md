@@ -1,4 +1,3 @@
-# Google-Cybersecurity-Labs
 # Google Cybersecurity Professional Certificate - Labs & Projects
 
 Welcome to my Cybersecurity portfolio repository. 
