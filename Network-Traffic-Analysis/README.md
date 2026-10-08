@@ -11,6 +11,7 @@ As a Cybersecurity Analyst, my objective was to analyze network traffic using a 
 - Analyzed the initial outgoing query from the local computer to the DNS server, which was sent via the **UDP** protocol.
 - Examined the server's response logs, identifying an **ICMP** echo reply returning the specific error message: *"udp port 53 unreachable"*.
 - Correlated the port number (Port 53) to its corresponding service to determine the exact point of failure.
+- [Network Log Analysis](tcpdump-log.png)
 
 ## Outcome & Recommendations
 The network analysis revealed that the DNS service was the root cause of the outage. The browser successfully sent a UDP packet to resolve the domain name, but the DNS server returned an ICMP error indicating that Port 53 was unreachable. 
