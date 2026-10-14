@@ -14,3 +14,13 @@ Utilize SQL queries within a MariaDB shell to extract, filter, and analyze secur
 
 ## Outcome
 Successfully extracted actionable security intelligence from raw database tables. This project demonstrates practical proficiency in using SQL for incident response, log analysis, and threat hunting.
+
+## Query Execution Screenshots
+![Query 1](sql1.png)
+![Query 2](sql2.png)
+![Query 3](sql3.png)
+![Query 4](sql4.png)
+![Query 5](sql5.png)
+![Query 6](sql6.png)
+![Query 7](sql7.png)
+![Query 8](sql8.png)
