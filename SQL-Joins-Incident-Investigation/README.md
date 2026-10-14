@@ -13,3 +13,10 @@ Utilize SQL `JOIN` operations (`INNER`, `LEFT`, `RIGHT`) within a MariaDB shell 
 
 ## Outcome
 Successfully synthesized fragmented database logs into actionable threat intelligence. This project demonstrates practical proficiency in relational database management, log correlation, and data enrichment for incident response.
+
+## Query Execution Screenshots
+![Query 1](sql1.png)
+![Query 2](sql2.png)
+![Query 3](sql3.png)
+![Query 4](sql4.png)
+![Query 5](sql5.png)
