@@ -16,3 +16,7 @@ Utilize Linux command-line tools to inspect current file permissions (including 
 
 ## Outcome
 Successfully locked down the project directory and mitigated potential insider threats or unauthorized data modification. This project demonstrates practical proficiency in Linux Identity and Access Management (IAM), file system security, and command-line troubleshooting.
+
+## Terminal Output
+![Permissions Audit 1](linux-file-permissions1.png)
+![Permissions Audit 2](linux-file-permissions2.png)
