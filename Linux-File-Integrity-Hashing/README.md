@@ -14,3 +14,6 @@ Utilize Linux command-line tools (`sha256sum`, `cat`, `cmp`) to generate, record
 
 ## Outcome
 Successfully proved that the second file had been altered despite containing the original EICAR test string. This project demonstrates practical proficiency in File Integrity Monitoring (FIM), cryptographic hashing (SHA-256), and core Linux CLI operations for security auditing.
+
+## Terminal Output
+![SHA256 Hashing](hashing.png)
