@@ -13,3 +13,11 @@ Use SQL logical operators (`AND`, `OR`, `NOT`) and the `LIKE` operator within a 
 
 ## Outcome
 Effectively applied advanced SQL filtering combinations to uncover specific security events. This project demonstrates a strong capability to perform targeted threat hunting and log analysis within a relational database using strict logical parameters.
+
+## Query Execution Screenshots
+![Query 1](sql1.png)
+![Query 2](sql2.png)
+![Query 3](sql3.png)
+![Query 4](sql4.png)
+![Query 5](sql5.png)
+![Query 6](sql6.png)
