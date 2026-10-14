@@ -14,3 +14,6 @@ Utilize the Linux command-line interface (Bash) to navigate the file system, fil
 
 ## Outcome
 Successfully extracted actionable intelligence from raw log files using core Linux commands. This exercise demonstrated proficiency in using the CLI for rapid security incident investigation, log parsing, and user access auditing without relying on Graphical User Interfaces (GUIs).
+
+## Terminal Output
+![Grep Log Auditing](linux-grep-auditing.jpg)
