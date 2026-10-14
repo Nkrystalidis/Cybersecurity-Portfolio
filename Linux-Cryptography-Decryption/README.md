@@ -13,3 +13,6 @@ Utilize Linux command-line tools (Bash) to uncover hidden files, manipulate text
 
 ## Outcome
 Successfully recovered the encrypted data. This project demonstrates practical proficiency in Linux file system navigation, command-line text manipulation, and applied cryptography using OpenSSL.
+
+## Terminal Output
+![OpenSSL Decryption](cryptography.png)
