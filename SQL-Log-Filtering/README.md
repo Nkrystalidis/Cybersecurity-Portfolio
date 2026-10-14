@@ -14,3 +14,12 @@ Utilize SQL comparison and logical operators within a MariaDB shell to filter an
 
 ## Outcome
 Successfully utilized SQL filtering techniques to sift through bulk data and isolate the specific parameters of a security incident. This project highlights practical SOC skills in incident response and log file analysis using database queries.
+
+## Query Execution Screenshots
+![Query 1](sql1.png)
+![Query 2](sql2.png)
+![Query 3](sql3.png)
+![Query 4](sql4.png)
+![Query 5](sql5.png)
+![Query 6](sql6.png)
+![Query 7](sql7.png)
