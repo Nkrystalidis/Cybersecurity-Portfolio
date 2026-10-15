@@ -7,7 +7,7 @@ Each project is structured around real-world **SOC / Blue Team**, **System Admin
 ---
 
 ## 🛠️ Core Technical Competencies Demonstrated
-* **Network Security & Traffic Analysis:** Packet sniffing (`tcpdump`, Wireshark), DNS/ICMP troubleshooting, DoS (SYN Flood / Ping Flood) detection, and firewall hardening.
+* **Network Security & Traffic Analysis:** Packet sniffing and deep packet inspection (`Wireshark`, `tcpdump`), DNS/ICMP troubleshooting, DoS (SYN Flood / Ping Flood) detection, and firewall hardening.
 * **Linux System Administration & CLI:** Bash shell navigation, Identity and Access Management (IAM), file permissions (`chmod`), log parsing (`grep`, pipes), File Integrity Monitoring (`sha256sum`, `cmp`), and cryptography (`openssl` AES-256).
 * **SQL for Threat Hunting (MariaDB):** Complex log filtering, temporal anomaly detection, logical operators, and multi-table correlation (`INNER`, `LEFT`, `RIGHT JOIN`) for incident response.
 * **GRC & Incident Reporting:** Applying the **NIST Cybersecurity Framework (CSF)**, conducting vulnerability & risk assessments, and auditing compliance against **PCI DSS**, **GDPR**, and **SOC** standards.
@@ -19,6 +19,7 @@ Each project is structured around real-world **SOC / Blue Team**, **System Admin
 ### 🌐 1. Network Security & Traffic Analysis
 | Project / Lab | Focus Area & Tools | Documentation |
 | :--- | :--- | :--- |
+| **Wireshark Deep Packet Inspection** | Analyzing `.pcap` files, filtering by IP/MAC/Port, tracing DNS queries (`udp.port == 53`), and payload inspection (`tcp contains "curl"`). | [View Report](./Wireshark-Packet-Analysis/README.md) |
 | **DoS Network Analysis (SYN Flood)** | Packet header inspection, TCP 3-way handshake analysis, HTTP 504 timeout diagnosis, and SYN cookies mitigation. | [View Report](./DoS-Network-Analysis/README.md) \| [PDF](./DoS-Network-Analysis/Cybersecurity%20incident%20report.pdf) |
 | **Network Traffic Analysis (DNS & ICMP)** | Investigating service outages using `tcpdump`, analyzing UDP Port 53 unreachable ICMP replies, and firewall rules. | [View Report](./Network-Traffic-Analysis/README.md) \| [PDF](./Network-Traffic-Analysis/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf) |
 | **Brute Force & Malware Injection Incident** | Sandbox dynamic analysis, tracing HTTP GET payload delivery, DNS redirection, and brute-force mitigation. | [View Report](./Malware-Injection-Incident/README.md) \| [PDF](./Malware-Injection-Incident/Malware-Injection-Incident-Report.pdf) |
