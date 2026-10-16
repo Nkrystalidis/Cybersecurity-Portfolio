@@ -24,6 +24,7 @@ Each project is structured around real-world **SOC / Blue Team**, **System Admin
 | **DoS Network Analysis (SYN Flood)** | Packet header inspection, TCP 3-way handshake analysis, HTTP 504 timeout diagnosis, and SYN cookies mitigation. | [View Report](./DoS-Network-Analysis/README.md) \| [PDF](./DoS-Network-Analysis/Cybersecurity%20incident%20report.pdf) |
 | **Network Traffic Analysis (DNS & ICMP)** | Investigating service outages using `tcpdump`, analyzing UDP Port 53 unreachable ICMP replies, and firewall rules. | [View Report](./Network-Traffic-Analysis/README.md) \| [PDF](./Network-Traffic-Analysis/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf) |
 | **Brute Force & Malware Injection Incident** | Sandbox dynamic analysis, tracing HTTP GET payload delivery, DNS redirection, and brute-force mitigation. | [View Report](./Malware-Injection-Incident/README.md) \| [PDF](./Malware-Injection-Incident/Malware-Injection-Incident-Report.pdf) |
+| **Suricata IDS Rule & Log Analysis** | Testing custom signatures, analyzing `fast.log` and `eve.json`, and filtering alert telemetry with `jq`. | [View Report](./Suricata-IDS-Detection-Analysis/README.md) |
 
 ---
 
