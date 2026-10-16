@@ -66,3 +66,8 @@ jq "select(.flow_id==695532248962789)" /var/log/suricata/eve.json
 
 ## Outcome
 Successfully validated Suricata IDS rule syntax, triggered alerts against real-world packet captures, verified dual alert flows within legacy and modern log structures, and parsed JSON security telemetry via CLI data extraction. This lab demonstrates practical Blue Team proficiency in network intrusion monitoring, signature analysis, and alert triage.
+
+## Terminal Screenshots
+![Suricata Execution & Alert Logs](suricata1.png)
+![Formatted EVE JSON Telemetry](suricata2.png)
+![Telemetry Filtering with jq](suricata3.png)
