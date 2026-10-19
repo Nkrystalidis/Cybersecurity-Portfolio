@@ -60,3 +60,4 @@ Each project is structured around real-world **SOC / Blue Team**, **System Admin
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **Log Parsing & Regex Triage** | Automated pattern matching for OS compliance device IDs and IPv4 log extraction/threat triage using Python `re`. | [View Project](./Python-Log-Parsing-Regex/README.md) |
+| **Automated IP Allow-List Management** | Python algorithm utilizing file I/O (`open`, `read`, `write`) and list parsing (`split`, `remove`, `join`) to revoke unauthorized IPs. | [View Project](./Python-Access-Control-Automation/README.md) |
