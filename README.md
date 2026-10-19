@@ -55,3 +55,8 @@ Each project is structured around real-world **SOC / Blue Team**, **System Admin
 | **NIST CSF Incident Report (ICMP Flood)** | Applying NIST CSF core functions (*Identify, Protect, Detect, Respond, Recover*) to a volumetric DoS network outage. | [View Report](./NIST-Incident-Report-DoS/README.md) \| [PDF](./NIST-Incident-Report-DoS/Incident%20report%20analysis.pdf) |
 | **Network Hardening & Risk Assessment** | Post-breach vulnerability assessment and remediation planning using ACL firewall rules, MFA, and IAM password policies. | [View Report](./Network-Hardening-Risk-Assessment/README.md) \| [PDF](./Network-Hardening-Risk-Assessment/Network-Hardening-Risk-Assessment.pdf) |
 | **Threat Intelligence & Hash Analysis** | Analyzing malicious hashes (`bfsvc.exe`), C2 URLs (`org.misecure.com`), and mapping IoCs via VirusTotal & Pyramid of Pain. | [View Report](./Threat-Intelligence-VirusTotal/README.md) |
+
+## 🐍 5. Security Automation & Scripting (Python)
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Log Parsing & Regex Triage** | Automated pattern matching for OS compliance device IDs and IPv4 log extraction/threat triage using Python `re`. | [View Project](./Python-Log-Parsing-Regex/README.md) |
