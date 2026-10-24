@@ -25,7 +25,7 @@ Each project is structured around real-world **SOC / Blue Team**, **System Admin
 | **Network Traffic Analysis (DNS & ICMP)** | Investigating service outages using `tcpdump`, analyzing UDP Port 53 unreachable ICMP replies, and firewall rules. | [View Report](./Network-Traffic-Analysis/README.md) \| [PDF](./Network-Traffic-Analysis/Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf) |
 | **Brute Force & Malware Injection Incident** | Sandbox dynamic analysis, tracing HTTP GET payload delivery, DNS redirection, and brute-force mitigation. | [View Report](./Malware-Injection-Incident/README.md) \| [PDF](./Malware-Injection-Incident/Malware-Injection-Incident-Report.pdf) |
 | **Suricata IDS Rule & Log Analysis** | Testing custom signatures, analyzing `fast.log` and `eve.json`, and filtering alert telemetry with `jq`. | [View Report](./Suricata-IDS-Detection-Analysis/README.md) |
-* **[Splunk SIEM & Phishing Alert Triage](./Splunk-Phishing-Alert-Triage/):** Investigated and triaged 4 real-time phishing and perimeter firewall alerts in Splunk Enterprise, correlating email telemetry with proxy logs and verifying IoCs to achieve a 100% True/False Positive detection rate.
+| **Splunk SIEM & Phishing Alert Triage** | Triaging 4 real-time phishing & firewall alerts in `Splunk Enterprise`, correlating email/proxy telemetry, and verifying IoCs (`100% TP/FP rate`). | [View Report](./Splunk-Phishing-Alert-Triage/README.md) |
 
 ---
 
