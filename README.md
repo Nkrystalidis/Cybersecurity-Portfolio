@@ -20,6 +20,7 @@ Each project is structured around real-world **SOC / Blue Team**, **System Admin
 | Project / Lab | Focus Area & Tools | Documentation |
 | :--- | :--- | :--- |
 | **Splunk SIEM & Phishing Alert Triage** | Triaging 4 real-time phishing & firewall alerts in `Splunk Enterprise`, correlating email/proxy telemetry, and verifying IoCs (`100% TP/FP rate`). | [View Report](./Splunk-Phishing-Alert-Triage/README.md) |
+| **Phishing Header Forensics & Kit Reverse Engineering** | Auditing SPF/DMARC records (`dig`), analyzing double-extension malware via `VirusTotal`, and reverse-engineering an exposed Office 365 phishing kit (`submit.php`). | [View Report](./Phishing-Email-and-Kit-Analysis/README.md) |
 
 ### 🌐 1. Network Security & Traffic Analysis
 | Project / Lab | Focus Area & Tools | Documentation |
